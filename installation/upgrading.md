@@ -33,7 +33,7 @@ description: Upgrading from the deprecated Emulsify Pattern Lab
      6. Uninstall/remove the unified\_twig\_extensions module, and enable            
            [emulsify\_twig](https://www.drupal.org/project/emulsify_twig).  
      7. Remove `node_modules` directory and run `yarn` or `npm install`.  
-     8. Run `yarn develop` or `npm develop`.
+     8. Run `yarn develop` or `npm run develop`.
 
 ### Optional Steps \(depending on your installation\)
 
